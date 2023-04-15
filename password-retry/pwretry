@@ -1,0 +1,4 @@
+password = "a123456"
+while true:
+    pwd = input("請輸入密碼")
+    if pwd == password
